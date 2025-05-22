@@ -103,7 +103,7 @@ Captum’s IG method runs over the model’s input embeddings, and outputs token
 ## 🚀 Try It
 
 > ✅ Run the app in Colab:  
-> [🔗 Colab Link](https://colab.research.google.com/drive/YOUR_NOTEBOOK_ID_HERE)
+> [🔗 Colab Link](https://colab.research.google.com/drive/1R93nlTm0Y8xGLwn-TiVc-ZSNNvca8wLi?usp=sharing)
 
 ---
 
