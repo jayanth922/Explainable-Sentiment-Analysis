@@ -2,6 +2,9 @@
 
 A Gradio-powered, explainable NLP project that explores how **prompt engineering** and **Integrated Gradients** affect zero-shot sentiment classification using a pre-trained transformer model.
 
+
+Youtube Link: https://youtu.be/-9bjNgsL3ec
+Colab link : https://colab.research.google.com/drive/1R93nlTm0Y8xGLwn-TiVc-ZSNNvca8wLi?usp=sharing
 ---
 
 ## 📌 Abstract
@@ -97,13 +100,6 @@ Captum’s IG method runs over the model’s input embeddings, and outputs token
 | README.md | ✅ Done |
 | Video demo | ⏳ To be added |
 | Final screenshots | ⏳ To be added |
-
----
-
-## 🚀 Try It
-
-> ✅ Run the app in Colab:  
-> [🔗 Colab Link](https://colab.research.google.com/drive/1R93nlTm0Y8xGLwn-TiVc-ZSNNvca8wLi?usp=sharing)
 
 ---
 
