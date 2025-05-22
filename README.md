@@ -1,5 +1,7 @@
 # 🧠 Explainable Sentiment Analysis Playground
 
+![image](https://github.com/user-attachments/assets/11d740de-672b-4f85-8d9a-ef1ee118bb85)
+
 A Gradio-powered, explainable NLP project that explores how **prompt engineering** and **Integrated Gradients** affect zero-shot sentiment classification using a pre-trained transformer model.
 
 
@@ -115,7 +117,3 @@ Captum’s IG method runs over the model’s input embeddings, and outputs token
 ## 📜 License
 
 MIT License
-
-
-
-![image](https://github.com/user-attachments/assets/11d740de-672b-4f85-8d9a-ef1ee118bb85)
